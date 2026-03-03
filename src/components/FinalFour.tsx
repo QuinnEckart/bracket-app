@@ -18,7 +18,7 @@ export function FinalFour({
     <div className="bg-gradient-to-b from-bracket-highlight/50 to-bracket-bg/50 rounded-xl p-6 
                     backdrop-blur-sm border border-bracket-gold/30">
       <h2 className="text-2xl font-bold text-bracket-gold text-center mb-6">
-        🏆 Final Four
+        🦴 Final Four Showdown 🦴
       </h2>
 
       <div className="flex items-center justify-center gap-8">
@@ -46,7 +46,7 @@ export function FinalFour({
           {champion && (
             <div className="bg-gradient-to-r from-bracket-gold/20 via-bracket-gold/40 to-bracket-gold/20 
                             rounded-xl p-4 text-center animate-pulse">
-              <div className="text-sm text-bracket-gold mb-2">🎉 CHAMPION 🎉</div>
+              <div className="text-sm text-bracket-gold mb-2">🦖 APEX PREDATOR 🦖</div>
               <div className="flex items-center justify-center gap-3">
                 {champion.image ? (
                   <img 
@@ -56,7 +56,7 @@ export function FinalFour({
                   />
                 ) : (
                   <div className="w-16 h-16 rounded-lg bg-bracket-card flex items-center justify-center ring-4 ring-bracket-gold">
-                    <span className="text-2xl">🏆</span>
+                    <span className="text-2xl">🦕</span>
                   </div>
                 )}
                 <div>

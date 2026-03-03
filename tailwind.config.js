@@ -8,11 +8,11 @@ export default {
     extend: {
       colors: {
         bracket: {
-          bg: '#1a1a2e',
-          card: '#16213e',
-          accent: '#e94560',
-          highlight: '#0f3460',
-          gold: '#ffd700',
+          bg: '#1a2e1a',
+          card: '#2d4a2d',
+          accent: '#ff6b35',
+          highlight: '#3d5a3d',
+          gold: '#f7b32b',
         }
       }
     },

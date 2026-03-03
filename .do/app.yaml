@@ -7,7 +7,7 @@ static_sites:
     github:
       branch: main
       deploy_on_push: true
-      repo: ${GITHUB_REPO}
+      repo: QuinnEckart/bracket-app
+    environment_slug: node-js
     routes:
       - path: /
-    environment_slug: node-js

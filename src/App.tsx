@@ -64,7 +64,7 @@ function App() {
 
       <footer className="bg-bracket-card/50 border-t border-bracket-highlight/30 py-4 mt-8">
         <div className="max-w-[1800px] mx-auto px-4 text-center text-sm text-gray-500">
-          <p>Tournament Bracket Builder • Your bracket is saved automatically in your browser</p>
+          <p>🦖 Dino Battle Bracket • Your prehistoric battles are saved automatically 🦕</p>
         </div>
       </footer>
     </div>

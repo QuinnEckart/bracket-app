@@ -8,7 +8,7 @@ export function createEmptyTeam(seed: number, regionId: string): Team {
   return {
     id: `${regionId}-seed-${seed}`,
     seed,
-    name: `Seed ${seed}`,
+    name: `Dino #${seed}`,
     image: null,
   };
 }
@@ -105,10 +105,10 @@ export function createEmptyFinalFour(): FinalFour {
 export function createInitialBracket(): BracketState {
   return {
     regions: [
-      createEmptyRegion('region-1', 'East'),
-      createEmptyRegion('region-2', 'West'),
-      createEmptyRegion('region-3', 'South'),
-      createEmptyRegion('region-4', 'Midwest'),
+      createEmptyRegion('region-1', 'Jurassic'),
+      createEmptyRegion('region-2', 'Cretaceous'),
+      createEmptyRegion('region-3', 'Triassic'),
+      createEmptyRegion('region-4', 'Pangaea'),
     ],
     finalFour: createEmptyFinalFour(),
     champion: null,

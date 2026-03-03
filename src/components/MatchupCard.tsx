@@ -65,7 +65,7 @@ export function MatchupCard({
 
       {hasWinner && (
         <div className="mt-1 text-center">
-          <span className="text-[10px] text-bracket-gold">★ Winner Selected</span>
+          <span className="text-[10px] text-bracket-gold">🦴 Victor Chosen</span>
         </div>
       )}
     </div>
