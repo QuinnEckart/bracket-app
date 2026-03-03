@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="5" y="10" width="20" height="10" fill="#e94560" rx="2"/>
+  <rect x="5" y="25" width="20" height="10" fill="#e94560" rx="2"/>
+  <rect x="5" y="55" width="20" height="10" fill="#e94560" rx="2"/>
+  <rect x="5" y="70" width="20" height="10" fill="#e94560" rx="2"/>
+  <line x1="25" y1="15" x2="35" y2="15" stroke="#ffd700" stroke-width="2"/>
+  <line x1="25" y1="30" x2="35" y2="30" stroke="#ffd700" stroke-width="2"/>
+  <line x1="35" y1="15" x2="35" y2="30" stroke="#ffd700" stroke-width="2"/>
+  <line x1="35" y1="22.5" x2="45" y2="22.5" stroke="#ffd700" stroke-width="2"/>
+  <line x1="25" y1="60" x2="35" y2="60" stroke="#ffd700" stroke-width="2"/>
+  <line x1="25" y1="75" x2="35" y2="75" stroke="#ffd700" stroke-width="2"/>
+  <line x1="35" y1="60" x2="35" y2="75" stroke="#ffd700" stroke-width="2"/>
+  <line x1="35" y1="67.5" x2="45" y2="67.5" stroke="#ffd700" stroke-width="2"/>
+  <rect x="45" y="17.5" width="20" height="10" fill="#0f3460" rx="2"/>
+  <rect x="45" y="62.5" width="20" height="10" fill="#0f3460" rx="2"/>
+  <line x1="65" y1="22.5" x2="75" y2="22.5" stroke="#ffd700" stroke-width="2"/>
+  <line x1="65" y1="67.5" x2="75" y2="67.5" stroke="#ffd700" stroke-width="2"/>
+  <line x1="75" y1="22.5" x2="75" y2="67.5" stroke="#ffd700" stroke-width="2"/>
+  <line x1="75" y1="45" x2="85" y2="45" stroke="#ffd700" stroke-width="2"/>
+  <rect x="75" y="40" width="20" height="10" fill="#ffd700" rx="2"/>
+  <text x="85" y="47" text-anchor="middle" fill="#1a1a2e" font-size="6" font-weight="bold">W</text>
+</svg>

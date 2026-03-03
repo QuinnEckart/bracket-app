@@ -1,0 +1,13 @@
+name: bracket-app
+region: nyc
+static_sites:
+  - name: bracket-app
+    build_command: npm run build
+    output_dir: dist
+    github:
+      branch: main
+      deploy_on_push: true
+      repo: ${GITHUB_REPO}
+    routes:
+      - path: /
+    environment_slug: node-js
